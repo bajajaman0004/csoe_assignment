@@ -9,7 +9,7 @@ when we hover over certain options.
 
 
 This webpage can be thought of as the home page of an invitation to a 
-birthday party where we have to contact me, About party & time and 
+birthday party where we have contact me, About party & time and 
 place and menu options which can be linked to further webpages in the 
 future. It also has the option of wish me which can further redirect to the 
 page of wishing by social media.
